@@ -1,6 +1,10 @@
 # Optimization of the Vertical Greenery Systems for Noise Mitigation in Urban Environments
 This repository contains products developed as part of the Master Thesis at TU Delft.
 
+<img src="https://github.com/smrksn/Optimization-of-the-Vertical-Greenery-Systems/assets/144154829/273f9bb7-db9d-4a66-aee3-9aae7c7b3af0" width=15% height=15%>
+
+Copyright © Sofia Markson, 2024
+
 ## Overview:
 
 Vertical Greenery Systems (VGS) offer effective solutions for reducing urban noise pollution through strategic implementation. This project focuses on optimizing multi-layered VGS to maximize their noise mitigation capabilities. A pivotal advancement involves developing a tool based on the Transfer Matrix Method (TMM), a mathematical technique for analyzing wave transmission and reflection in layered structures. In this approach, VGS layers are modeled as equivalent one-dimensional fluid-like layers with complex and frequency-dependent effective parameters.
@@ -40,6 +44,3 @@ The scripts provided facilitate the derivation of complex effective parameters f
    - Wait for the final pop-up GUI displaying performance metrics.
 4. **Documentation**:
    - For detailed methodology, refer to the TU Delft repository [link].
-  
-![logo](https://github.com/smrksn/Optimization-of-the-Vertical-Greenery-Systems/assets/144154829/273f9bb7-db9d-4a66-aee3-9aae7c7b3af0)
-Copyright © Sofia Markson, 2024
