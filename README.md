@@ -25,8 +25,9 @@ The scripts provided facilitate the derivation of complex effective parameters f
 
 ## How to Use
 ### Prerequisites
-- Anaconda3-2022.10 (or later)
+- Anaconda3-2022.10
 - VS Code version 1.90.2 (May 2024 update) or compatible IDE
+- Python 3.9.13
 
 ### Dependencies
 - **numpy**: Numerical computing library for handling arrays and mathematical operations.
