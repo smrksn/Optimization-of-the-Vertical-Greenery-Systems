@@ -45,6 +45,6 @@ The scripts provided facilitate the derivation of complex effective parameters f
    - Wait for the final pop-up GUI displaying performance metrics.
 4. **Documentation**:
    - For detailed methodology, refer to the TU Delft repository [link].
-  
-   ![Tool execution](https://github.com/smrksn/Optimization-of-the-Vertical-Greenery-Systems/assets/144154829/9a10b7e8-3606-4b10-a099-7e9107cee726)
 
+
+![Tool execution](https://github.com/smrksn/Optimization-of-the-Vertical-Greenery-Systems/assets/144154829/9a10b7e8-3606-4b10-a099-7e9107cee726)
