@@ -9,10 +9,10 @@ The tool includes a materials library that allows the configuration of various V
 
 ## Contents
 ### Tool
-- **Tool.py**: Main script for running the tool.
-- **VGS_layers.txt**: Notes on utilized materials and corresponding suppliers.
-- **Tool_workflow.html**: Detailed description of tool functions, functionalities, and execution sequence.
-- **cache.npz**: Binary file storing variables from the input GUI.
+- `Tool.py: Main script for running the tool.
+- `VGS_layers.txt`: Notes on utilized materials and corresponding suppliers.
+- `Tool_workflow.html`: Detailed description of tool functions, functionalities, and execution sequence.
+- `cache.npz`: Binary file storing variables from the input GUI.
 - **Effective_Parameters/**: Folder containing binary files of complex effective parameters for each material.
 - **Scheme_Attributes/**: Folder with attributes for compiling the Transfer Matrix Scheme within the tool GUI.
 
