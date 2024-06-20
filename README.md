@@ -33,7 +33,7 @@ The scripts provided facilitate the derivation of complex effective parameters f
 1. **Setup**:
    - Clone the repository and install necessary dependencies.
 2. **Navigate**:
-   - Open the corresponding "Tool\" folder.
+   - Open the "Tool\" folder in VS Code or your preferred IDE.
 3. **Run Tool.py**:
    - Execute the script `Tool.py`.
    - Adjust the relevant variables as required within the interactive GUI.
