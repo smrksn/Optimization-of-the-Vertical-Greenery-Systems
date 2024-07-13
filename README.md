@@ -11,6 +11,8 @@ Vertical Greenery Systems (VGS) offer effective solutions for reducing urban noi
 
 The tool includes a materials library that allows the configuration of various VGS setups, incorporating components such as foliage and substrate. The main aim of the tool is to provide information on the noise reduction potential of configured VGS designs. Key performance metrics that aid stakeholders in decision-making include frequency-dependent Return Loss, weighted absorption coefficient with sound absorption class. Moreover, the tool provides frequency-dependent absorption coefficients that can be used as inputs for further urban simulations. These metrics provide information for normal incidence performance only!
 
+![Tool execution](https://github.com/smrksn/Optimization-of-the-Vertical-Greenery-Systems/assets/144154829/9a10b7e8-3606-4b10-a099-7e9107cee726)
+
 ## Contents
 ### Tool
 - `Tool.py`: Main script for running the tool.
@@ -44,7 +46,4 @@ The scripts provided facilitate the derivation of complex effective parameters f
    - Adjust the relevant variables as required within the interactive GUI.
    - Wait for the final pop-up GUI displaying performance metrics.
 4. **Documentation**:
-   - For detailed methodology, refer to the TU Delft repository [link].
-
-
-![Tool execution](https://github.com/smrksn/Optimization-of-the-Vertical-Greenery-Systems/assets/144154829/9a10b7e8-3606-4b10-a099-7e9107cee726)
+   - For detailed methodology, refer to the TU Delft repository [link](http://resolver.tudelft.nl/uuid:165f7d97-f6ac-4bc4-be74-eb534aaea012).
